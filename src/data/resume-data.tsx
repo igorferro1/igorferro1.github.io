@@ -23,15 +23,15 @@ export const RESUME_DATA = {
   name: "Igor Nunes Ferro",
   initials: "INF",
   location: "São Paulo, Brazil, BRT",
-  // locationLink: "https://www.google.com/maps/place/Wrocław",
+  locationLink: "https://www.google.com/maps/place/São%20Paulo",
   about:
     "Electrical and Computer Engineer whose focus lies in the ever-evolving field of cybersecurity.",
   summary:
     "A 23-year old from Brazil who went far away from home to study in Belgium. I love listening to music, cycling and traveling around the world, and my favorite band is Panic! At the Disco. Today, with a degree in Electrical Engineering and his Masters in Computer Engineering, I work as an IT Analyst in Cybersecurity at BTG Pactual, the biggest investiment bank of LATAM.",
   avatarUrl: "https://media.licdn.com/dms/image/D4D03AQE2kSQRW4UgCg/profile-displayphoto-shrink_200_200/0/1701896848039?e=1710979200&v=beta&t=X2IFIuX0nZU7sVee3N35by_BCR1oEq5E5H9NNi9zbqY",
-  // personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://www.linkedin.com/in/igor-nunes-ferro/",
   contact: {
-    email: "igornfero@outlook.com",
+    email: "igornferro@outlook.com",
     tel: "+5511982376895",
     social: [
       {
@@ -126,24 +126,20 @@ export const RESUME_DATA = {
     "SystemVerilog",
     "LaTeX",
   ],
-  // projects: [
-  //   {
-  //     title: "Consultly",
-  //     techStack: [
-  //       "Side Project",
-  //       "TypeScript",
-  //       "Next.js",
-  //       "Vite",
-  //       "GraphQL",
-  //       "WebRTC",
-  //     ],
-  //     description: "A platform to build and grow your online business",
-  //     logo: ConsultlyLogo,
-  //     link: {
-  //       label: "consultly.com",
-  //       href: "https://consultly.com/",
-  //     },
-  //   },
+  projects: [
+    {
+      title: "IoT Hound",
+      techStack: [
+        "Side Project",
+        "Python",
+      ],
+      description: "An IoT Forensics tool to locate devices within crime scenes.",
+      logo: ConsultlyLogo,
+      link: {
+        label: "IoT Hound Website",
+        href: "https://sites.google.com/usp.br/iot-hound/",
+      },
+    },]
   //   {
   //     title: "Monito",
   //     techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
