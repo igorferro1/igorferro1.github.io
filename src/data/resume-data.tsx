@@ -28,7 +28,7 @@ export const RESUME_DATA = {
     "Electrical and Computer Engineer whose focus lies in the ever-evolving field of cybersecurity.",
   summary:
     "A 23-year old from Brazil who went far away from home to study in Belgium. I love listening to music, cycling and traveling around the world, and my favorite band is Panic! At the Disco. Today, with a degree in Electrical Engineering and his Masters in Computer Engineering, I work as an IT Analyst in Cybersecurity at BTG Pactual, the biggest investiment bank of LATAM.",
-  avatarUrl: "https://media.licdn.com/dms/image/D4D03AQE2kSQRW4UgCg/profile-displayphoto-shrink_200_200/0/1701896848039?e=1710979200&v=beta&t=X2IFIuX0nZU7sVee3N35by_BCR1oEq5E5H9NNi9zbqY",
+  avatarUrl: "https://media.licdn.com/dms/image/D4D03AQE2kSQRW4UgCg/profile-displayphoto-shrink_200_200/0/1701896848039?e=1720656000&v=beta&t=CzdJ5OSbluA_eKPUbIiJNCYUa2_SOrL78_2sgpTIERE",
   personalWebsiteUrl: "https://www.linkedin.com/in/igor-nunes-ferro/",
   contact: {
     email: "igornferro@outlook.com",
